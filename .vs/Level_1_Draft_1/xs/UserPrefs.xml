@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{FE657877-6B4D-D092-4EF3-D0983A21FC64}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Script/PlayerController.cs" Line="247" Column="1" />
+      <File FileName="Assets/TextFiles/WorkerLetter.txt" />
+      <File FileName="Assets/Script/InventoryScripts/itemInScene.cs" />
+      <File FileName="Assets/SlotInfo.cs" />
+      <File FileName="Assets/Script/InventoryScripts/BagUIManager.cs" />
+      <File FileName="Assets/Script/InventoryScripts/ItemOnDrag.cs" />
+      <File FileName="Assets/Script/InventoryScripts/Item.cs" />
+      <File FileName="Assets/Script/InventoryScripts/Inventory.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c037723b-e445-4ade-968d-cac359614b45" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

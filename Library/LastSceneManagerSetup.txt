@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Level_1_Draft_2.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

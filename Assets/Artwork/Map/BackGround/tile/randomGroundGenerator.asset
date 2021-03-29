@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d1514134bc4fbd41bb739b1b9a49231, type: 3}
+  m_Name: randomGroundGenerator
+  m_EditorClassIdentifier: 
+  m_DefaultSprite: {fileID: 3512907867279631519, guid: 6c4d4b54afa8f4d50886169083e7e404,
+    type: 3}
+  m_DefaultGameObject: {fileID: 0}
+  m_DefaultColliderType: 1
+  m_TilingRules:
+  - m_Neighbors: 0000000000000000000000000000000000000000000000000000000000000000
+    m_Sprites:
+    - {fileID: 3512907867279631519, guid: 6c4d4b54afa8f4d50886169083e7e404, type: 3}
+    - {fileID: -5569130753738426664, guid: 6c4d4b54afa8f4d50886169083e7e404, type: 3}
+    - {fileID: 6875234223145192765, guid: 6c4d4b54afa8f4d50886169083e7e404, type: 3}
+    - {fileID: -3870391496716522631, guid: 6c4d4b54afa8f4d50886169083e7e404, type: 3}
+    - {fileID: 3638293051737408355, guid: 6c4d4b54afa8f4d50886169083e7e404, type: 3}
+    - {fileID: -6356777674432566740, guid: 6c4d4b54afa8f4d50886169083e7e404, type: 3}
+    - {fileID: -211221357952369830, guid: 6c4d4b54afa8f4d50886169083e7e404, type: 3}
+    - {fileID: 5159572359672528620, guid: 6c4d4b54afa8f4d50886169083e7e404, type: 3}
+    - {fileID: -6422599369329929767, guid: 6c4d4b54afa8f4d50886169083e7e404, type: 3}
+    - {fileID: 8006315856571473076, guid: 6c4d4b54afa8f4d50886169083e7e404, type: 3}
+    - {fileID: -6125606580062464247, guid: 6c4d4b54afa8f4d50886169083e7e404, type: 3}
+    - {fileID: -1191114988826485177, guid: 6c4d4b54afa8f4d50886169083e7e404, type: 3}
+    m_GameObject: {fileID: 0}
+    m_AnimationSpeed: 1
+    m_PerlinScale: 0.5
+    m_RuleTransform: 1
+    m_Output: 1
+    m_ColliderType: 1
+    m_RandomTransform: 0
